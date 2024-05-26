@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+#meme{
+    margin: 25px 50px 50px 200px;
+}
+#text1 {
+    color: white;
+    margin: 25px 50px 3px 425px;
+}
+#text2 {
+    color: white;
+    margin: 3px 50px 50px 355px;
+}
+img {
+    border: white solid 4px;
+    padding: 25px;
+}
